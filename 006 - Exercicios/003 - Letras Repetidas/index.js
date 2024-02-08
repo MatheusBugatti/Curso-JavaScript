@@ -4,7 +4,7 @@
 */
 
 //length serve pra ver quantas letras tem dentro de uma palavra
-//toLowerCase() serve para deixar o texto todo em minusculo mesmo escrevendo maisculo
+//toLowerCase() serve para deixar o texto todo em minusculo mesmo escrevendo maiusculo
 const palavra = "Abacate".toLowerCase();
 let letras = {};
 
