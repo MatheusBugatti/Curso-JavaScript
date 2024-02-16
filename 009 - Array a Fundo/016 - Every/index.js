@@ -16,7 +16,7 @@ const pedidos = [
       id: 33,
       nome: "Isabel",
       alimento: "Sandubão de Picanha",
-      bebida: "Refrigerante",
+      bebida: "sza",
     },
     { 
         id: 55,

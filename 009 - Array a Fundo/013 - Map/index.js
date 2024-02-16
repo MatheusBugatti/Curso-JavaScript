@@ -32,3 +32,12 @@ const pedidos = [
   });
 
   console.log(pedidos);
+
+  // let pedidosAlterados = pedidos.map((element, index) => {    
+  //   return(element.alimento = "Kibe");
+        
+    
+  // });
+
+  // console.log("original",pedidos);
+  // console.log("alterado",pedidosAlterados);
